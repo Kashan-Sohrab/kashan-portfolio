@@ -9,3 +9,4 @@ Run it in VS Code:
 
 Edit content in index.html. Colors are the variables at the top of css/style.css.
 Fonts load from Google Fonts when online; system fonts are used as fallback offline.
+<!-- trigger rebuild -->
